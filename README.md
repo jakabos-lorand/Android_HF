@@ -17,3 +17,13 @@ HF2:
 
 HF3:
 
+1.	Készítsd el az alábbi ábrán látható felületet LinearLayout nézet segítségével. Használt widgetek: TextView, EditText, Button.
+![alt text](image-1.png)
+
+2.	Készítsd el az alábbi felületet TableLayaout-ot és ConstrainLayout-ot használva. Az „Add product” gombra kattintva mindig létrehozunk egy Product példányt (a Product osztályt létre kell hozni), majd betesszük egy listába. A „Cancel” gomb törli a mezők tartalmát. Tegyünk egy „Show products” gombot, amelyre kattintva egy TextView elemben megjelenítjük valamennyi Product-ot a listából. 
+![alt text](image-2.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+HF4: 
+
