@@ -27,3 +27,10 @@ HF3:
 
 HF4: 
 
+1.	Készítsünk egy listát (ListView), amelynek egy sora az alábbi ábrán látható. Kattintásra egy lista elemen jelenjen meg a pénznem és a vételi ár. A listaelemek nézete ConstraintLayout-ot használjon.
+![alt text](image.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+HF5:
+
