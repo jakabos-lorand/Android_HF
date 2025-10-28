@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Valuta</string>
+    <string-array name="currencyShort">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>DKK</item>
+        <item>HUF</item>
+    </string-array>
+    <string-array name="currencies">
+        <item>Euro</item>
+        <item>Dolar american</item>
+        <item>Lira sterlina</item>
+        <item>Dolar australian</item>
+        <item>Dolar canadian</item>
+        <item>Franc elvetian</item>
+        <item>Coroana daneza</item>
+        <item>Forint maghiar</item>
+    </string-array>
+</resources>
