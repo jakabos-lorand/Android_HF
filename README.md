@@ -34,3 +34,13 @@ HF4:
 
 HF5:
 
+1.	Rendeljünk context menüt egy listához. A menüpontok: Piros, Zöld, Sárga. A menüpontok segítségével a lista egy elemének karakterszínét tudjuk megváltoztatni. Továbbá hozzunk létre egy option menüt két menüponttal: Rendez, Töröl (rendeljünk icont a menüpontokhoz és a ToolBar-on jelenjenek meg). A „Rendez” menüpontra kattintva a listát rendezzük ábécé szerint, míg a „Töröl” gombra kattintva töröljük a teljes listát. 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+HF6:
+
+1.	A FragmentCodeApp feladat mintájára készítsük el a 4.Házi feladatot.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
