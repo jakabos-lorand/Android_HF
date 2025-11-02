@@ -44,3 +44,10 @@ HF6:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+HF7:
+
+1.	Az 4.Laborgyakorlat CustomListView feladatát módosítsad (MyRecyclerViewCardView) úgy, hogy a ListView helyett RecyclerView-t használjunk valamint a listaelemek CardView-al legyenek formázva.
+![alt text](image-3.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
